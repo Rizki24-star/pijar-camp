@@ -1,3 +1,9 @@
+<p>Hasil Screenshot Tugas Bonus</p>
+<img width="200px" height="180" src="/public/image/index.png">
+<img width="200px" height="180" src="/public/image/create.png">
+<img width="200px" height="180" src="/public/image/edit.png">
+<img width="200px" height="180" src="/public/image/detail.png">
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
